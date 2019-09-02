@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Android-level1-assignment2</string>
+    <string name="app_title">Conjunction (AND)</string>
+    <string name="A">A</string>
+    <string name="B">B</string>
+    <string name="AB">A^B</string>
+    <string name="T">T</string>
+    <string name="F">F</string>
+    <string name="submit">Submit</string>
+    <string name="correct">Correct</string>
+    <string name="incorrect">Incorrect</string>
+</resources>
